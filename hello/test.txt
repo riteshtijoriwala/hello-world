@@ -1,5 +1,7 @@
 test file
 another line added
 updates from work3 branch
+
+checking commit message
 update form work4 brnach
 update from work5 branch

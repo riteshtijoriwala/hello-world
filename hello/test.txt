@@ -1,3 +1,5 @@
 test file
 another line added
 updates from work3 branch
+
+checking commit message

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <manifest>
-     <remote name="github" fetch="https://github.com"/>
+     <remote name="github" fetch="https://github.com/riteshtijoriwala"/>
      <default revision="refs/heads/master" remote="github" sync-j="4"/>
      <project name="hello" remote="github" path="hello"/>
      <project name="world" remote="github" path="world"/>

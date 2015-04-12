@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <manifest>
-     <remote name="hello-world" fetch=".."/>
-     <default revision="refs/heads/master" remote="origin" sync-j="4"/>
-     <project name="hello" remote="origin" path="hello"/>
-     <project name="world" remote="origin" path="world"/>
+     <remote name="github" fetch="https://github.com"/>
+     <default revision="refs/heads/master" remote="github" sync-j="4"/>
+     <project name="hello" remote="github" path="hello"/>
+     <project name="world" remote="github" path="world"/>
  </manifest>

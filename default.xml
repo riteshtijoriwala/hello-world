@@ -2,6 +2,6 @@
  <manifest>
      <remote name="hello-world" fetch=".."/>
      <default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
-     <project name="hello" remote="origin" path="hello">
+     <project name="hello" remote="origin" path="hello"/>
      <project name="world" remote="origin" path="world"/>
  </manifest>
